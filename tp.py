@@ -19,8 +19,8 @@ def contarPalabrasLista(texto):
             if conteo[i][0] == palabra:
                 conteo[i] = (palabra, conteo[i][1] + 1)
                 encontrado = True
-            if not encontrado:
-                conteo.append((palabra, 1))
+        if not encontrado:
+            conteo.append((palabra, 1))
     return conteo
 
 #algoritmo con diccionario
@@ -42,9 +42,9 @@ for numeros in tamaniosEntrada:
     inicio = time.time()
     contarPalabrasLista(texto)
     fin = time.time()
-    print(f"Lista - {tamaniosEntrada} palabras: {round((fin - inicio) * 1000, 2)} ms") 
+    print(f"Lista - {numeros} palabras: {round((fin - inicio) * 1000, 2)} ms") 
 
     inicio = time.time()
     contarPalabrasDiccionario(texto)
     fin = time.time()
-    print(f"Diccionario - {tamaniosEntrada} palabras: {round((fin - inicio) * 1000, 2)} ms")
+    print(f"Diccionario - {numeros} palabras: {round((fin - inicio) * 1000, 2)} ms")

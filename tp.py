@@ -48,3 +48,14 @@ for numeros in tamaniosEntrada:
     contarPalabrasDiccionario(texto)
     fin = time.time()
     print(f"Diccionario - {numeros} palabras: {round((fin - inicio) * 1000, 2)} ms")
+
+#ejemplo
+
+print ("20 palabras: ")
+textoEjemplo = generarTexto(20)
+
+print("Resultado con lista tuplas: ")
+print(contarPalabrasLista(textoEjemplo))
+
+print("Resultado del diccionario: ")
+print(contarPalabrasDiccionario(textoEjemplo))

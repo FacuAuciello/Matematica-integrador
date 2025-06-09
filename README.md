@@ -1,7 +1,7 @@
 # TP Integrado Programacion I - Análisis de algoritmos
-### Eficiencia y optimización
+### 📊 Eficiencia y optimización
 
-Este proyecto forma parte de un trabajo práctico sobre análisis de algoritmos. El objetivo es demostrar la eficiencia de los algoritmos haciendo una comparación mediante el análisis empírico y teórico.
+Este proyecto forma parte de un trabajo práctico de la materia Programación I, orientado al análisis de algoritmos. El objetivo es comparar el rendimiento de dos enfoques distintos para resolver un mismo problema, evaluando su eficiencia con entradas de diferentes tamaños.
 
 ## 📁 Estructura del proyecto
 

@@ -9,7 +9,7 @@ Este proyecto forma parte de un trabajo práctico de la materia Programación I,
 - `contenido/TP Integrador Programación I - Facundo Auciello y Ayelen Etchegoyen.pdf`: Archivo con el informe final del trabajo.
 
 ## 🎥 Enlace al video
-[Ver video explicativo](https://drive.google.com/file/d/17mi6xy9i3A2T37tU_K1sywBy0KFGoTgJ/view?usp=drive_link) 
+[Ver video explicativo](https://www.youtube.com/watch?v=Ln369Jf7w9c) 
 
 ## ▶️ Programa - Contar palabras
 

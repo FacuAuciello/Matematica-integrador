@@ -6,7 +6,10 @@ Este proyecto forma parte de un trabajo práctico de la materia Programación I,
 ## 📁 Estructura del proyecto
 
 - `tp.py`: Script de prueba en Python. Contiene los algoritmos de estudio y la ejecución con distintas entradas de prueba.
-- `contenido/TP Integrador Programación I - Facundo Auciello y Ayelen Etchegoyen.pdf`: Archivo con el informe final del trabajo.
+- `TP Integrador Programación I - Facundo Auciello y Ayelen Etchegoyen.pdf`: Archivo con el informe final del trabajo.
+
+## 📃 Informe final
+[Abrir informe del trabajo](https://github.com/FacuAuciello/progra-integrador/blob/main/TP%20Integrador%20Programacion%20I%20-%20Facundo%20Auciello%20y%20Ayelen%20Etchegoyen.pdf)
 
 ## 🎥 Enlace al video
 [Ver video explicativo](https://www.youtube.com/watch?v=Ln369Jf7w9c) 
@@ -26,5 +29,6 @@ python3 tp.py
 ```
 
 ## 👥 Autores
-- Facundo Auciello
-- Ayelén Etchegoyen
+- Facundo Auciello (Comisión 24)
+- Ayelén Etchegoyen (Comisión 13)
+
